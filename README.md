@@ -1,4 +1,4 @@
-# Hi there, I'm Kalyan Kuraku 👋
+# Hi there, I'm Kalyan 👋
 
 Welcome to my GitHub profile! I’m a Computer Science student at **Dayananda Sagar University**, recently joined in 2025.
 
