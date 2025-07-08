@@ -14,7 +14,14 @@ Welcome to my GitHub profile! I’m a Computer Science student at **Dayananda Sa
 
 ## 💻 Skills
 
-### <span style="background-color:#2d8cff;color:#fff;padding:4px 12px;border-radius:4px;">C++</span> &nbsp; <span style="background-color:#ffba08;color:#fff;padding:4px 12px;border-radius:4px;">Data Structures & Algorithms</span>
+<!-- Tech stack badges for highlighting -->
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Data%20Structures-FFA500?style=for-the-badge" alt="Data Structures"/>
+  <img src="https://img.shields.io/badge/Algorithms-800080?style=for-the-badge" alt="Algorithms"/>
+  <img src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</p>
 
 - **C++:**  
   - Object-Oriented Programming (OOP)
@@ -33,7 +40,13 @@ Welcome to my GitHub profile! I’m a Computer Science student at **Dayananda Sa
   - Problem-solving and algorithmic thinking
 
 ## 🛠️ Tech Stack Highlight
-![Tech Stack](image1)
+
+<!-- Example badges for visual stack -->
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Data%20Structures-FFA500?style=for-the-badge" alt="Data Structures"/>
+  <img src="https://img.shields.io/badge/Algorithms-800080?style=for-the-badge" alt="Algorithms"/>
+</p>
 
 ## 🛠️ Tools & Technologies
 - C++
