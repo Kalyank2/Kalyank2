@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Kalyan Kuraku 👋
 
-<!--
-**Kalyank2/Kalyank2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m a Computer Science student at **Dayananda Sagar University**, recently joined in 2025.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 **Education:** B.Tech in Computer Science, Dayananda Sagar University (2025–present)
+- 💻 **Skills:**  
+  - Programming: C++
+  - Data Structures & Algorithms
+- 🌱 **Currently Learning:** Expanding my knowledge in core CS concepts and exploring new technologies.
+- 🤝 **Interests:** Competitive programming, problem-solving, and building efficient solutions.
+- 🌐 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/kalyan-kuraku-2b4400367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- 🚀 **Goals:**  
+  - Master advanced algorithms
+  - Contribute to open-source projects
+  - Build real-world applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Technologies
+- C++
+- Git & GitHub
+- Visual Studio Code
+
+## 📈 GitHub Stats
+![Kalyank2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalyank2&show_icons=true)
+
+## ✨ Fun Facts
+- I enjoy participating in hackathons and coding competitions.
+- I am passionate about learning new technologies and collaborating on interesting projects.
+- Always eager to connect with fellow tech enthusiasts!
+
+---
+
+Thanks for visiting my profile! Feel free to connect with me or check out my repositories.
